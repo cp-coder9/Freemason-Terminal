@@ -2,7 +2,7 @@
 
 An AI-powered narrative adventure game exploring the history and mysteries of the Freemasons through a retro-futuristic terminal interface.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cp-coder9/Freemason-Terminal)
 
 ## About The Project
 
@@ -90,7 +90,7 @@ Deploying this application to Cloudflare is a straightforward process.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cp-coder9/Freemason-Terminal)
 
 ## Project Structure
 
